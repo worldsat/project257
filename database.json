@@ -1,0 +1,100 @@
+{
+  "Profile": {
+    "profilePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758824328/profile_j8dkft.jpg",
+    "name": "Mohsen Jamali"
+  },
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758823726/banner_qeyniq.png"
+    }
+  ],
+  "Category": [
+    { "id": 0, "title": "All" },
+    { "id": 1, "title": "Cleaning" },
+    { "id": 2, "title": "Plumber" },
+    { "id": 3, "title": "Mechanic" },
+    { "id": 4, "title": "Electric" }
+  ],
+  "Items": [
+    {
+      "title": "Home Deep Cleaning",
+      "subtitle": "Get 20% off Our Best Services Today",
+      "description": "Our expert service man provides a thorough and detailed cleaning of your entire home. From dusting and vacuuming to scrubbing and sanitizing, every corner is taken care of with precision. This service is ideal if you want to refresh your living space, remove hidden dirt, and create a healthier environment for you and your family. We use safe and effective cleaning methods to make sure your furniture, floors, and surfaces are spotless.",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758895201/cleaner1_yottfn.png",
+      "profilePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758895224/cleaner1_profile_tixaby.jpg",
+      "price": 1499,
+      "oldPrice": 1999,
+      "off": 20,
+      "classicPrice": 1499,
+      "classicOldPrice": 1999,
+      "premiumPrice": 1999,
+      "premiumOldPrice": 2100,
+      "platinumPrice": 2499,
+      "platinumOldPrice": 2599,
+      "name": "Tina Anderson",
+      "job": "Cleaner",
+      "categoryId": "1",
+      "phone": "00123456789"
+    },
+    {
+      "title": "Bathroom Cleaning",
+      "subtitle": "Sparking bathrooms.\nenjoy 20$ today",
+      "description": "Our bathroom cleaning service ensures spotless tiles, sanitized sinks, and shining mirrors. We focus on removing tough stains, soap scum, and bacteria to leave your bathroom fresh and hygienic. Perfect if you want a hotel-like shine in your own home.",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758898310/cleaner2_ofexzv.png",
+      "profilePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758898310/cleaner2_ofexzv.png",
+      "price": 1299,
+      "oldPrice": 1699,
+      "off": 24,
+      "classicPrice": 1299,
+      "classicOldPrice": 1699,
+      "premiumPrice": 1799,
+      "premiumOldPrice": 2100,
+      "platinumPrice": 2299,
+      "platinumOldPrice": 2599,
+      "name": "John Kidman",
+      "job": "Cleaner",
+      "categoryId": "1",
+      "phone": "00123456789"
+    },
+    {
+      "title": "Sofa Carpet Clean",
+      "subtitle": "Fresh sofas, carpets get 15% off",
+      "description": "We specialize in deep cleaning sofas, carpets, and upholstery to remove dust, stains, and allergens. Using eco-friendly solutions, we restore the original freshness of your furniture and create a healthier home atmosphere.",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758895198/cleaner3_tspg1p.png",
+      "profilePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758895198/cleaner3_tspg1p.png",
+      "price": 1199,
+      "oldPrice": 1499,
+      "off": 20,
+      "classicPrice": 1199,
+      "classicOldPrice": 1499,
+      "premiumPrice": 1599,
+      "premiumOldPrice": 1899,
+      "platinumPrice": 2099,
+      "platinumOldPrice": 2399,
+      "name": "Jack Anderson",
+      "job": "Cleaner",
+      "categoryId": "1",
+      "phone": "00123456789"
+    },
+    {
+      "title": "Kitchen Cleaning",
+      "subtitle": "Get 20% off Our Best Services Today",
+      "description": "Our kitchen cleaning service removes grease, grime, and food stains from counters, cabinets, and appliances. From stovetops to sinks, we leave your kitchen sparkling clean and safe for cooking.",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758895195/cleaner4_rxdott.png",
+      "profilePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758895195/cleaner4_rxdott.png",
+      "price": 1399,
+      "oldPrice": 1799,
+      "off": 22,
+      "classicPrice": 1399,
+      "classicOldPrice": 1799,
+      "premiumPrice": 1799,
+      "premiumOldPrice": 2099,
+      "platinumPrice": 2299,
+      "platinumOldPrice": 2599,
+      "name": "Rayan Manson",
+      "job": "Cleaner",
+      "categoryId": "1",
+      "phone": "00123456789"
+    }
+  ]
+}
